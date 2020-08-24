@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-cartoon/static/css/main.7c55dcad.chunk.css",
+    "main.js": "/react-cartoon/static/js/main.9705add5.chunk.js",
+    "main.js.map": "/react-cartoon/static/js/main.9705add5.chunk.js.map",
+    "runtime-main.js": "/react-cartoon/static/js/runtime-main.e7750283.js",
+    "runtime-main.js.map": "/react-cartoon/static/js/runtime-main.e7750283.js.map",
+    "static/css/2.11829350.chunk.css": "/react-cartoon/static/css/2.11829350.chunk.css",
+    "static/js/2.c0d4bb0e.chunk.js": "/react-cartoon/static/js/2.c0d4bb0e.chunk.js",
+    "static/js/2.c0d4bb0e.chunk.js.map": "/react-cartoon/static/js/2.c0d4bb0e.chunk.js.map",
+    "index.html": "/react-cartoon/index.html",
+    "precache-manifest.be11132626d3a7d1f560063c01ea76e1.js": "/react-cartoon/precache-manifest.be11132626d3a7d1f560063c01ea76e1.js",
+    "service-worker.js": "/react-cartoon/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/react-cartoon/static/css/2.11829350.chunk.css.map",
+    "static/css/main.7c55dcad.chunk.css.map": "/react-cartoon/static/css/main.7c55dcad.chunk.css.map",
+    "static/js/2.c0d4bb0e.chunk.js.LICENSE.txt": "/react-cartoon/static/js/2.c0d4bb0e.chunk.js.LICENSE.txt",
+    "static/media/dor.png": "/react-cartoon/static/media/dor.43200e89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7750283.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.c0d4bb0e.chunk.js",
+    "static/css/main.7c55dcad.chunk.css",
+    "static/js/main.9705add5.chunk.js"
+  ]
+}
